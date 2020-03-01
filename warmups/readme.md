@@ -1,0 +1,1 @@
+This is a folder for warmup problems from hackerrank problem solving --> algorithms
