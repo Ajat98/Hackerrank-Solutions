@@ -9,7 +9,7 @@ import sys
 # Complete the climbingLeaderboard function below.
 def climbingLeaderboard(scores, alice):
     
-    
+    #List of scores ordered from greatest to least with multiples removed.
     ranks = sorted(set(scores), reverse=True )
     
     leaderBoard = {}
