@@ -51,4 +51,6 @@ stringsum = s + c
 
 print(intsum)
 print(doublesum)
-print(stringsum)
+print(stringsum
+deleted 
+#
